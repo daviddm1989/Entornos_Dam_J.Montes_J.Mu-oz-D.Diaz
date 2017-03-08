@@ -82,6 +82,10 @@ public class Producto {
     public void setCodigo(float codigo){
         this.codigo=codigo;
     }
+    /**
+     * Metodo que devuelve el codigo del producto
+     * @return codigo
+     */
     public float getCodigo(){
         return codigo;
     }
