@@ -75,7 +75,10 @@ public class Producto {
     public int getNumVentas(){
         return nVentas;
     }
-    
+    /**
+     * Cambia el codigo del producto
+     * @param codigo 
+     */
     public void setCodigo(float codigo){
         this.codigo=codigo;
     }
